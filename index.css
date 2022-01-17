@@ -1,0 +1,26 @@
+body {
+    background-color: #b0b0ff;
+    text-align: center;
+}
+section {
+    background-color: white;
+    border-radius: 15px;
+    width: fit-content;
+    padding: 5px;
+    margin: auto;
+    font-size: 25px;
+}
+h1 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+input {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+div {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+}
